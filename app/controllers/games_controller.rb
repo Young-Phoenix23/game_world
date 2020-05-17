@@ -3,4 +3,7 @@ class GamesController < ApplicationController
   end
   def home
   end
+  def new
+
+  end
 end
